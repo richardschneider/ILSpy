@@ -47,6 +47,8 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Issue26.cs" />
+    <Compile Include="Issue32.cs" />
     <Compile Include="DecompilerTest.cs" />
     <Compile Include="Issue27.cs" />
   </ItemGroup>
